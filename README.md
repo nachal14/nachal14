@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on Sentiment analysis  project
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me - snachal11@gmail.com
+Linkedin - https://www.linkedin.com/in/nachal-s-16393a244/
 -
 
 <!---
